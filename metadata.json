@@ -1,0 +1,7 @@
+{
+  "name": "Ice Cream Finder",
+  "description": "An application to help users find nearby ice cream shops using their current location and the Gemini API.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
